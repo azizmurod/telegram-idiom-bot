@@ -1,0 +1,1200 @@
+{
+  "idioms": [
+    {
+      "idiom": "Break the ice",
+      "translation": "Разрядить атмосферу",
+      "example": "He told a joke to break the ice at the meeting."
+    },
+    {
+      "idiom": "Burn the midnight oil",
+      "translation": "Работать до поздней ночи",
+      "example": "I’ve been burning the midnight oil to finish my project."
+    },
+    {
+      "idiom": "Hit the nail on the head",
+      "translation": "Попасть в точку",
+      "example": "You hit the nail on the head with your suggestion."
+    },
+    {
+      "idiom": "Let the cat out of the bag",
+      "translation": "Раскрыть секрет",
+      "example": "He let the cat out of the bag about the surprise party."
+    },
+    {
+      "idiom": "A piece of cake",
+      "translation": "Легко, просто",
+      "example": "The exam was a piece of cake."
+    },
+    {
+      "idiom": "A blessing in disguise",
+      "translation": "Неудача, которая оказалась удачей",
+      "example": "Losing that job was a blessing in disguise."
+    },
+    {
+      "idiom": "Once in a blue moon",
+      "translation": "Очень редко",
+      "example": "He only visits us once in a blue moon."
+    },
+    {
+      "idiom": "Under the weather",
+      "translation": "Чувствовать себя плохо",
+      "example": "I’m feeling a bit under the weather today."
+    },
+    {
+      "idiom": "Spill the beans",
+      "translation": "Проболтаться, раскрыть секрет",
+      "example": "She accidentally spilled the beans about the wedding."
+    },
+    {
+      "idiom": "Bite the bullet",
+      "translation": "Принять трудное решение",
+      "example": "Sometimes you just have to bite the bullet and deal with it."
+    },
+    {
+      "idiom": "Out of the blue",
+      "translation": "Неожиданно",
+      "example": "The offer came out of the blue."
+    },
+    {
+      "idiom": "Hit the sack",
+      "translation": "Лечь спать",
+      "example": "I’m exhausted, I think I’ll hit the sack."
+    },
+    {
+      "idiom": "Actions speak louder than words",
+      "translation": "Дела говорят громче слов",
+      "example": "Don’t just promise, show it. Actions speak louder than words."
+    },
+    {
+      "idiom": "The ball is in your court",
+      "translation": "Твой ход",
+      "example": "I’ve done all I can. Now, the ball is in your court."
+    },
+    {
+      "idiom": "The early bird catches the worm",
+      "translation": "Кто рано встает, тому Бог подает",
+      "example": "If you want to get the best deals, remember: the early bird catches the worm."
+    },
+    {
+      "idiom": "Cut to the chase",
+      "translation": "Перейти к делу",
+      "example": "Let’s cut to the chase — what do you want?"
+    },
+    {
+      "idiom": "In the same boat",
+      "translation": "В одной лодке",
+      "example": "We are all in the same boat with this project."
+    },
+    {
+      "idiom": "Back to square one",
+      "translation": "Начать с нуля",
+      "example": "After the mistake, we had to go back to square one."
+    },
+    {
+      "idiom": "The tip of the iceberg",
+      "translation": "Видимая часть проблемы",
+      "example": "What we know is just the tip of the iceberg."
+    },
+    {
+      "idiom": "Burn bridges",
+      "translation": "Сжигать мосты",
+      "example": "He burned his bridges when he quit his job without notice."
+    },
+    {
+      "idiom": "A penny for your thoughts",
+      "translation": "Что ты думаешь?",
+      "example": "You’ve been quiet. A penny for your thoughts?"
+    },
+    {
+      "idiom": "Caught red-handed",
+      "translation": "Поймать с поличным",
+      "example": "He was caught red-handed stealing the money."
+    },
+    {
+      "idiom": "In hot water",
+      "translation": "В беде",
+      "example": "She’s in hot water after missing the meeting."
+    },
+    {
+      "idiom": "Cry over spilled milk",
+      "translation": "Плакать по поводу того, что уже не изменить",
+      "example": "Don’t cry over spilled milk. Let’s move on."
+    },
+    {
+      "idiom": "To make a long story short",
+      "translation": "Короче говоря",
+      "example": "To make a long story short, we ended up getting lost."
+    },
+    {
+      "idiom": "Jump on the bandwagon",
+      "translation": "Присоединиться к популярному движению",
+      "example": "Everyone’s jumping on the bandwagon of online shopping."
+    },
+    {
+      "idiom": "The last straw",
+      "translation": "Последняя капля",
+      "example": "That was the last straw; I can’t take it anymore."
+    },
+    {
+      "idiom": "Throw in the towel",
+      "translation": "Сдаться",
+      "example": "After several failed attempts, he threw in the towel."
+    },
+    {
+      "idiom": "An arm and a leg",
+      "translation": "Очень дорого",
+      "example": "This new phone cost me an arm and a leg."
+    },
+    {
+      "idiom": "Let sleeping dogs lie",
+      "translation": "Не буди лихо, пока оно тихо",
+      "example": "I think it’s better to let sleeping dogs lie and not bring up that issue again."
+    },
+    {
+      "idiom": "It’s not rocket science",
+      "translation": "Это не так сложно",
+      "example": "It’s not rocket science, just follow the instructions."
+    },
+    {
+      "idiom": "The writing’s on the wall",
+      "translation": "Всё ясно, очевидно",
+      "example": "The writing’s on the wall, the company will soon go bankrupt."
+    },
+    {
+      "idiom": "A watched pot never boils",
+      "translation": "Ожидание всегда кажется дольше",
+      "example": "Stop watching the clock, a watched pot never boils."
+    },
+    {
+      "idiom": "Don’t count your chickens before they hatch",
+      "translation": "Не говори «гоп», пока не перепрыгнешь",
+      "example": "You might get the job, but don’t count your chickens before they hatch."
+    },
+    {
+      "idiom": "On cloud nine",
+      "translation": "На седьмом небе от счастья",
+      "example": "She was on cloud nine when she got the promotion."
+    },
+    {
+      "idiom": "A fish out of water",
+      "translation": "Чувствовать себя не в своей тарелке",
+      "example": "He felt like a fish out of water at the new job."
+    },
+    {
+      "idiom": "By the book",
+      "translation": "По правилам",
+      "example": "She does everything by the book, never breaking the rules."
+    },
+    {
+      "idiom": "Straight from the horse’s mouth",
+      "translation": "Из первых уст",
+      "example": "I heard it straight from the horse’s mouth — he’s quitting."
+    },
+    {
+      "idiom": "At the drop of a hat",
+      "translation": "Без промедления",
+      "example": "She’s always ready to help at the drop of a hat."
+    },
+    {
+      "idiom": "In the nick of time",
+      "translation": "В последний момент",
+      "example": "We arrived at the airport in the nick of time."
+    },
+    {
+      "idiom": "The ball is in your court",
+      "translation": "Твой ход",
+      "example": "You’ve made your decision, now the ball is in my court."
+    },
+    {
+      "idiom": "Under the weather",
+      "translation": "Чувствовать себя плохо",
+      "example": "I’m feeling a bit under the weather today, so I’ll stay home."
+    },
+    {
+      "idiom": "Break a leg",
+      "translation": "Удачи! (обычно перед выступлением)",
+      "example": "You have a performance tonight? Break a leg!"
+    },
+    {
+      "idiom": "A stitch in time saves nine",
+      "translation": "Легче предупредить проблему, чем решать её позднее",
+      "example": "Fix the leak now; a stitch in time saves nine."
+    },
+    {
+      "idiom": "Bite the bullet",
+      "translation": "Принять трудное решение",
+      "example": "You’ll have to bite the bullet and face the consequences."
+    },
+    {
+      "idiom": "Cold turkey",
+      "translation": "Резкое прекращение (обычно о вредной привычке)",
+      "example": "He quit smoking cold turkey."
+    },
+    {
+      "idiom": "Don’t bite off more than you can chew",
+      "translation": "Не бери на себя слишком много",
+      "example": "You’ve already got three projects, don’t bite off more than you can chew."
+    },
+    {
+      "idiom": "Hit the nail on the head",
+      "translation": "Попасть в точку",
+      "example": "You really hit the nail on the head with that analysis."
+    },
+    {
+      "idiom": "Keep your fingers crossed",
+      "translation": "Надеяться на удачу",
+      "example": "Keep your fingers crossed that we get the job!"
+    },
+    {
+      "idiom": "On the ball",
+      "translation": "Быть внимательным, быть на высоте",
+      "example": "Sarah’s always on the ball with her tasks."
+    },
+    {
+      "idiom": "Pull someone’s leg",
+      "translation": "Дурачить, шутить",
+      "example": "Stop pulling my leg! I know you're joking."
+    },
+    {
+      "idiom": "You can’t judge a book by its cover",
+      "translation": "Не суди о книге по обложке (не суди по внешности)",
+      "example": "She looks shy, but you can’t judge a book by its cover."
+    },
+    {
+      "idiom": "Throw in the towel",
+      "translation": "Сдаться, признать поражение",
+      "example": "After trying so many times, I decided to throw in the towel."
+    },
+    {
+      "idiom": "Once in a blue moon",
+      "translation": "Очень редко",
+      "example": "We only see him once in a blue moon."
+    },
+    {
+      "idiom": "Go the extra mile",
+      "translation": "Сделать больше, чем требуется",
+      "example": "She always goes the extra mile to help her colleagues."
+    },
+    {
+      "idiom": "Let sleeping dogs lie",
+      "translation": "Не буди лихо, пока оно тихо",
+      "example": "Don’t bring up the past. Let sleeping dogs lie."
+    },
+    {
+      "idiom": "Put all your eggs in one basket",
+      "translation": "Поставить всё на одну карту",
+      "example": "Don’t put all your eggs in one basket, diversify your investments."
+    },
+    {
+      "idiom": "Cut corners",
+      "translation": "Экономить на чем-то, делать что-то менее качественно",
+      "example": "He cut corners when building the house, so now there are problems."
+    },
+    {
+      "idiom": "The devil is in the details",
+      "translation": "Дьявол кроется в деталях",
+      "example": "The project looks simple, but the devil is in the details."
+    },
+    {
+      "idiom": "Throw someone under the bus",
+      "translation": "Подставить кого-то, предать",
+      "example": "He threw his colleague under the bus to save himself."
+    },
+    {
+      "idiom": "When pigs fly",
+      "translation": "Когда рак на горе свистнет (никогда)",
+      "example": "I’ll believe it when pigs fly."
+    },
+    {
+      "idiom": "A penny saved is a penny earned",
+      "translation": "Сэкономленные деньги — заработанные деньги",
+      "example": "Don’t waste money; remember, a penny saved is a penny earned."
+    },
+    {
+      "idiom": "Take with a grain of salt",
+      "translation": "Относиться с сомнением",
+      "example": "Take his advice with a grain of salt; he’s not always right."
+    },
+    {
+      "idiom": "It takes two to tango",
+      "translation": "За ссору всегда отвечают обе стороны",
+      "example": "Don’t blame her alone. It takes two to tango."
+    },
+    {
+      "idiom": "By the skin of your teeth",
+      "translation": "Едва-едва, чудом",
+      "example": "I passed the test by the skin of my teeth."
+    },
+    {
+      "idiom": "To be on the same page",
+      "translation": "Понимать друг друга, быть в одной команде",
+      "example": "Before we start, let’s make sure we’re all on the same page."
+    },
+    {
+      "idiom": "Keep your eyes peeled",
+      "translation": "Будь начеку",
+      "example": "Keep your eyes peeled for any signs of trouble."
+    },
+    {
+      "idiom": "Blow off steam",
+      "translation": "Выпустить пар, расслабиться",
+      "example": "He went for a run to blow off steam after the argument."
+    },
+    {
+      "idiom": "Take the bull by the horns",
+      "translation": "Взять быка за рога, решительно действовать",
+      "example": "We need to take the bull by the horns and deal with this issue."
+    },
+    {
+      "idiom": "A bird in the hand is worth two in the bush",
+      "translation": "Лучшая синица в руках, чем журавль в небе",
+      "example": "Don’t risk your job for something uncertain — a bird in the hand is worth two in the bush."
+    },
+    {
+      "idiom": "Jump the gun",
+      "translation": "Поторопиться, начать раньше времени",
+      "example": "Don’t jump the gun, the meeting starts at 10."
+    },
+    {
+      "idiom": "The proof is in the pudding",
+      "translation": "Всё покажет практика",
+      "example": "It looks good, but the proof is in the pudding."
+    },
+    {
+      "idiom": "In the nick of time",
+      "translation": "В последний момент",
+      "example": "We arrived at the airport in the nick of time."
+    },
+    {
+      "idiom": "To have a chip on your shoulder",
+      "translation": "Быть обиженным, раздражённым",
+      "example": "He’s always had a chip on his shoulder since the argument."
+    },
+    {
+      "idiom": "To pull yourself together",
+      "translation": "Собраться с силами, взять себя в руки",
+      "example": "After the bad news, she needed a moment to pull herself together."
+    },
+    {
+      "idiom": "Don’t put all your eggs in one basket",
+      "translation": "Не рискуй всем",
+      "example": "You need to diversify your savings; don’t put all your eggs in one basket."
+    },
+    {
+      "idiom": "Like two peas in a pod",
+      "translation": "Как две капли воды",
+      "example": "Those twins are like two peas in a pod."
+    },
+    {
+      "idiom": "To be in hot water",
+      "translation": "Попасть в беду",
+      "example": "He’s in hot water with his boss after the mistake."
+    },
+    {
+      "idiom": "To bite off more than you can chew",
+      "translation": "Взять на себя слишком много",
+      "example": "You should avoid committing to too many tasks at once — you might bite off more than you can chew."
+    },
+    {
+      "idiom": "To get cold feet",
+      "translation": "Испугаться, передумать в последний момент",
+      "example": "She got cold feet before the wedding and called it off."
+    },
+    {
+    "idiom": "A hot potato",
+    "translation": "Горячая картошка (неудобная тема)",
+    "example": "The issue of taxes is a real hot potato right now."
+    },
+    {
+    "idiom": "A penny for your thoughts",
+    "translation": "Что ты думаешь?",
+    "example": "You've been quiet all day. A penny for your thoughts?"
+    },
+    {
+    "idiom": "At the drop of a hat",
+    "translation": "Без промедления, немедленно",
+    "example": "She would leave for a holiday at the drop of a hat."
+    },
+    {
+    "idiom": "Better late than never",
+    "translation": "Лучше поздно, чем никогда",
+    "example": "I know I'm late, but better late than never."
+    },
+    {
+    "idiom": "Blow someone away",
+    "translation": "Впечатлить, поразить",
+    "example": "The performance really blew me away."
+    },
+    {
+    "idiom": "Burn the candle at both ends",
+    "translation": "Работать на износ, слишком много работать",
+    "example": "He's been burning the candle at both ends trying to meet deadlines."
+    },
+    {
+    "idiom": "Chase your tail",
+    "translation": "Бегать по кругу, тратить время на бесполезные дела",
+    "example": "I've been chasing my tail all day without getting anything done."
+    },
+    {
+    "idiom": "Cry wolf",
+    "translation": "Лгать, создавать ложную тревогу",
+    "example": "Stop crying wolf every time there's a problem."
+    },
+    {
+    "idiom": "Drive someone up the wall",
+    "translation": "Бесить, сводить с ума",
+    "example": "His constant complaining is driving me up the wall."
+    },
+    {
+    "idiom": "Every cloud has a silver lining",
+    "translation": "Не было бы счастья, да несчастье помогло",
+    "example": "I lost my job, but every cloud has a silver lining. I found a better one."
+    },
+    {
+    "idiom": "Get out of hand",
+    "translation": "Выйти из-под контроля",
+    "example": "The party got out of hand, and the neighbors called the police."
+    },
+    {
+    "idiom": "Go back to the drawing board",
+    "translation": "Начать с нуля, вернуться к начальной точке",
+    "example": "Our initial plan didn’t work out, so we’ll have to go back to the drawing board."
+    },
+    {
+    "idiom": "Go down in flames",
+    "translation": "Терпеть фиаско, провалиться",
+    "example": "The project went down in flames after all our hard work."
+    },
+    {
+    "idiom": "Hit the jackpot",
+    "translation": "Удачно, выиграть большую сумму",
+    "example": "He hit the jackpot in the lottery last week."
+    },
+    {
+    "idiom": "In the blink of an eye",
+    "translation": "Мгновенно, в один миг",
+    "example": "The accident happened in the blink of an eye."
+    },
+    {
+    "idiom": "Keep your nose to the grindstone",
+    "translation": "Работать упорно, не отвлекаться",
+    "example": "If you keep your nose to the grindstone, you’ll get promoted."
+    },
+    {
+    "idiom": "Let the cat out of the bag",
+    "translation": "Проболтаться, раскрыть секрет",
+    "example": "He let the cat out of the bag about the surprise party."
+    },
+    {
+    "idiom": "Make a long story short",
+    "translation": "Короче говоря",
+    "example": "To make a long story short, we missed the bus."
+    },
+    {
+    "idiom": "Make waves",
+    "translation": "Создавать проблемы, беспокойство",
+    "example": "He doesn’t want to make waves at work."
+    },
+    {
+    "idiom": "Not my cup of tea",
+    "translation": "Не в моём вкусе, не нравится",
+    "example": "Horror movies are not my cup of tea."
+    },
+    {
+    "idiom": "Off the beaten path",
+    "translation": "В стороне от проторенных путей, необычный",
+    "example": "We took an off-the-beaten-path route to the countryside."
+    },
+    {
+    "idiom": "On cloud nine",
+    "translation": "На седьмом небе от счастья",
+    "example": "She was on cloud nine after getting the job offer."
+    },
+    {
+    "idiom": "Once bitten, twice shy",
+    "translation": "Обжёгся на молоке, на воде дуется",
+    "example": "He’s afraid to invest in stocks again; once bitten, twice shy."
+    },
+    {
+    "idiom": "Out of the frying pan and into the fire",
+    "translation": "Из огня да в полымя",
+    "example": "The new job seemed better, but it was out of the frying pan and into the fire."
+    },
+    {
+    "idiom": "Put your money where your mouth is",
+    "translation": "Подтвердить слова действиями",
+    "example": "If you believe in the cause, put your money where your mouth is."
+    },
+    {
+    "idiom": "Raining cats and dogs",
+    "translation": "Льёт как из ведра",
+    "example": "It was raining cats and dogs, so we stayed indoors."
+    },
+    {
+    "idiom": "Read between the lines",
+    "translation": "Читать между строк, понимать скрытый смысл",
+    "example": "If you read between the lines, you can see what he really thinks."
+    },
+    {
+    "idiom": "Ring a bell",
+    "translation": "Звучать знакомо",
+    "example": "That name rings a bell, but I can’t remember where I heard it."
+    },
+    {
+    "idiom": "Rub someone the wrong way",
+    "translation": "Раздражать, действовать на нервы",
+    "example": "His comments rubbed me the wrong way."
+    },
+    {
+    "idiom": "Save face",
+    "translation": "Сохранить лицо, избежать позора",
+    "example": "She tried to save face after the mistake in the meeting."
+    },
+    {
+    "idiom": "Speak of the devil",
+    "translation": "Легок на помине",
+    "example": "Speak of the devil, here comes John!"
+    },
+    {
+    "idiom": "Take it with a grain of salt",
+    "translation": "Относиться с сомнением",
+    "example": "I’m not sure if it’s true, take it with a grain of salt."
+    },
+    {
+    "idiom": "Take the cake",
+    "translation": "Взять верх, быть лучшим",
+    "example": "That was the most ridiculous thing I’ve ever heard, it really takes the cake!"
+    },
+    {
+    "idiom": "The elephant in the room",
+    "translation": "Очевидная проблема, о которой никто не хочет говорить",
+    "example": "The elephant in the room was the fact that we were losing money."
+    },
+    {
+    "idiom": "The straw that broke the camel’s back",
+    "translation": "Последняя капля, из-за которой произошёл срыв",
+    "example": "The final straw was when he refused to help with the project."
+    },
+    {
+    "idiom": "Throw caution to the wind",
+    "translation": "Рисковать, не думать о последствиях",
+    "example": "She threw caution to the wind and quit her job."
+    },
+    {
+    "idiom": "Till the cows come home",
+    "translation": "Очень долго, до бесконечности",
+    "example": "We could argue till the cows come home, but it won’t change anything."
+    },
+    {
+    "idiom": "To be a fly on the wall",
+    "translation": "Быть свидетелем, наблюдать за чем-то скрытно",
+    "example": "I wish I could be a fly on the wall during their meeting."
+    },
+    {
+    "idiom": "To be on thin ice",
+    "translation": "Быть в опасной ситуации",
+    "example": "He’s on thin ice after breaking the rules."
+    },
+    {
+    "idiom": "To blow off steam",
+    "translation": "Выпустить пар",
+    "example": "After the meeting, he went for a walk to blow off steam."
+    },
+    {
+    "idiom": "A hot potato",
+    "translation": "Горячая картошка (неудобная тема)",
+    "example": "The issue of taxes is a real hot potato right now."
+    },
+    {
+    "idiom": "A penny for your thoughts",
+    "translation": "Что ты думаешь?",
+    "example": "You've been quiet all day. A penny for your thoughts?"
+    },
+    {
+    "idiom": "At the drop of a hat",
+    "translation": "Без промедления, немедленно",
+    "example": "She would leave for a holiday at the drop of a hat."
+    },
+    {
+    "idiom": "Better late than never",
+    "translation": "Лучше поздно, чем никогда",
+    "example": "I know I'm late, but better late than never."
+    },
+    {
+    "idiom": "Blow someone away",
+    "translation": "Впечатлить, поразить",
+    "example": "The performance really blew me away."
+    },
+    {
+    "idiom": "Burn the candle at both ends",
+    "translation": "Работать на износ, слишком много работать",
+    "example": "He's been burning the candle at both ends trying to meet deadlines."
+    },
+    {
+    "idiom": "Chase your tail",
+    "translation": "Бегать по кругу, тратить время на бесполезные дела",
+    "example": "I've been chasing my tail all day without getting anything done."
+    },
+    {
+    "idiom": "Cry wolf",
+    "translation": "Лгать, создавать ложную тревогу",
+    "example": "Stop crying wolf every time there's a problem."
+    },
+    {
+    "idiom": "Drive someone up the wall",
+    "translation": "Бесить, сводить с ума",
+    "example": "His constant complaining is driving me up the wall."
+    },
+    {
+    "idiom": "Every cloud has a silver lining",
+    "translation": "Не было бы счастья, да несчастье помогло",
+    "example": "I lost my job, but every cloud has a silver lining. I found a better one."
+    },
+    {
+    "idiom": "Get out of hand",
+    "translation": "Выйти из-под контроля",
+    "example": "The party got out of hand, and the neighbors called the police."
+    },
+    {
+    "idiom": "Go back to the drawing board",
+    "translation": "Начать с нуля, вернуться к начальной точке",
+    "example": "Our initial plan didn’t work out, so we’ll have to go back to the drawing board."
+    },
+    {
+    "idiom": "Go down in flames",
+    "translation": "Терпеть фиаско, провалиться",
+    "example": "The project went down in flames after all our hard work."
+    },
+    {
+    "idiom": "Hit the jackpot",
+    "translation": "Удачно, выиграть большую сумму",
+    "example": "He hit the jackpot in the lottery last week."
+    },
+    {
+    "idiom": "In the blink of an eye",
+    "translation": "Мгновенно, в один миг",
+    "example": "The accident happened in the blink of an eye."
+    },
+    {
+    "idiom": "Keep your nose to the grindstone",
+    "translation": "Работать упорно, не отвлекаться",
+    "example": "If you keep your nose to the grindstone, you’ll get promoted."
+    },
+    {
+    "idiom": "Let the cat out of the bag",
+    "translation": "Проболтаться, раскрыть секрет",
+    "example": "He let the cat out of the bag about the surprise party."
+    },
+    {
+    "idiom": "Make a long story short",
+    "translation": "Короче говоря",
+    "example": "To make a long story short, we missed the bus."
+    },
+    {
+    "idiom": "Make waves",
+    "translation": "Создавать проблемы, беспокойство",
+    "example": "He doesn’t want to make waves at work."
+    },
+    {
+    "idiom": "Not my cup of tea",
+    "translation": "Не в моём вкусе, не нравится",
+    "example": "Horror movies are not my cup of tea."
+    },
+    {
+    "idiom": "Off the beaten path",
+    "translation": "В стороне от проторенных путей, необычный",
+    "example": "We took an off-the-beaten-path route to the countryside."
+    },
+    {
+    "idiom": "On cloud nine",
+    "translation": "На седьмом небе от счастья",
+    "example": "She was on cloud nine after getting the job offer."
+    },
+    {
+    "idiom": "Once bitten, twice shy",
+    "translation": "Обжёгся на молоке, на воде дуется",
+    "example": "He’s afraid to invest in stocks again; once bitten, twice shy."
+    },
+    {
+    "idiom": "Out of the frying pan and into the fire",
+    "translation": "Из огня да в полымя",
+    "example": "The new job seemed better, but it was out of the frying pan and into the fire."
+    },
+    {
+    "idiom": "Put your money where your mouth is",
+    "translation": "Подтвердить слова действиями",
+    "example": "If you believe in the cause, put your money where your mouth is."
+    },
+    {
+    "idiom": "Raining cats and dogs",
+    "translation": "Льёт как из ведра",
+    "example": "It was raining cats and dogs, so we stayed indoors."
+    },
+    {
+    "idiom": "Read between the lines",
+    "translation": "Читать между строк, понимать скрытый смысл",
+    "example": "If you read between the lines, you can see what he really thinks."
+    },
+    {
+    "idiom": "Ring a bell",
+    "translation": "Звучать знакомо",
+    "example": "That name rings a bell, but I can’t remember where I heard it."
+    },
+    {
+    "idiom": "Rub someone the wrong way",
+    "translation": "Раздражать, действовать на нервы",
+    "example": "His comments rubbed me the wrong way."
+    },
+    {
+    "idiom": "Save face",
+    "translation": "Сохранить лицо, избежать позора",
+    "example": "She tried to save face after the mistake in the meeting."
+    },
+    {
+    "idiom": "Speak of the devil",
+    "translation": "Легок на помине",
+    "example": "Speak of the devil, here comes John!"
+    },
+    {
+    "idiom": "Take it with a grain of salt",
+    "translation": "Относиться с сомнением",
+    "example": "I’m not sure if it’s true, take it with a grain of salt."
+    },
+    {
+    "idiom": "Take the cake",
+    "translation": "Взять верх, быть лучшим",
+    "example": "That was the most ridiculous thing I’ve ever heard, it really takes the cake!"
+    },
+    {
+    "idiom": "The elephant in the room",
+    "translation": "Очевидная проблема, о которой никто не хочет говорить",
+    "example": "The elephant in the room was the fact that we were losing money."
+    },
+    {
+    "idiom": "The straw that broke the camel’s back",
+    "translation": "Последняя капля, из-за которой произошёл срыв",
+    "example": "The final straw was when he refused to help with the project."
+    },
+    {
+    "idiom": "Throw caution to the wind",
+    "translation": "Рисковать, не думать о последствиях",
+    "example": "She threw caution to the wind and quit her job."
+    },
+    {
+    "idiom": "Till the cows come home",
+    "translation": "Очень долго, до бесконечности",
+    "example": "We could argue till the cows come home, but it won’t change anything."
+    },
+    {
+    "idiom": "To be a fly on the wall",
+    "translation": "Быть свидетелем, наблюдать за чем-то скрытно",
+    "example": "I wish I could be a fly on the wall during their meeting."
+    },
+    {
+    "idiom": "To be on thin ice",
+    "translation": "Быть в опасной ситуации",
+    "example": "He’s on thin ice after breaking the rules."
+    },
+    {
+    "idiom": "To blow off steam",
+    "translation": "Выпустить пар",
+    "example": "After the meeting, he went for a walk to blow off steam."
+    },
+    {
+    "idiom": "To be in hot water",
+    "translation": "Попасть в беду",
+    "example": "He’s in hot water for missing the deadline."
+    },
+    {
+      "idiom": "To have a chip on your shoulder",
+      "translation": "Быть обиженным, затаить обиду",
+      "example": "She always seems to have a chip on her shoulder."
+    },
+    {
+      "idiom": "To have the upper hand",
+      "translation": "Иметь преимущество",
+      "example": "In negotiations, they had the upper hand."
+    },
+    {
+      "idiom": "To hit the nail on the head",
+      "translation": "Попасть в точку",
+      "example": "You hit the nail on the head with your analysis of the problem."
+    },
+    {
+      "idiom": "To let sleeping dogs lie",
+      "translation": "Не будить лихо, оставить как есть",
+      "example": "I think it’s best to let sleeping dogs lie and not bring up the issue again."
+    },
+    {
+      "idiom": "To make a mountain out of a molehill",
+      "translation": "Раздувать из мухи слона",
+      "example": "Stop making a mountain out of a molehill; it’s just a minor mistake."
+    },
+    {
+      "idiom": "To pull someone’s leg",
+      "translation": "Подшучивать, обманывать",
+      "example": "Are you serious, or are you just pulling my leg?"
+    },
+    {
+      "idiom": "To spill the beans",
+      "translation": "Проболтаться, раскрыть секрет",
+      "example": "He spilled the beans about the surprise party."
+    },
+    {
+      "idiom": "To take the bull by the horns",
+      "translation": "Взять быка за рога, действовать решительно",
+      "example": "He decided to take the bull by the horns and confront his boss."
+    },
+    {
+      "idiom": "To walk on air",
+      "translation": "Быть на седьмом небе от счастья",
+      "example": "After the proposal, she was walking on air for days."
+    },
+    {
+      "idiom": "Under the weather",
+      "translation": "Болеть, чувствовать себя плохо",
+      "example": "I’m feeling a bit under the weather today, so I’m staying home."
+    },
+    {
+      "idiom": "When pigs fly",
+      "translation": "Когда рак на горе свистнет, вряд ли случится",
+      "example": "He’ll apologize when pigs fly!"
+    },
+    {
+      "idiom": "You can’t judge a book by its cover",
+      "translation": "Не суди о книге по обложке",
+      "example": "Don’t judge him by his appearance. You can’t judge a book by its cover."
+    },
+    {
+      "idiom": "A bird in the hand is worth two in the bush",
+      "translation": "Лучше синица в руках, чем журавль в небе",
+      "example": "I’ll take the guaranteed job offer; a bird in the hand is worth two in the bush."
+    },
+    {
+      "idiom": "A picture is worth a thousand words",
+      "translation": "Картина стоит тысячи слов",
+      "example": "Instead of explaining, just show them the picture. A picture is worth a thousand words."
+    },
+    {
+      "idiom": "Actions speak louder than words",
+      "translation": "Дела говорят громче слов",
+      "example": "He promised to help, but actions speak louder than words."
+    },
+    {
+      "idiom": "Bite the bullet",
+      "translation": "Принять трудное решение, смириться с неприятным",
+      "example": "You just have to bite the bullet and finish the project."
+    },
+    {
+      "idiom": "Don’t count your chickens before they hatch",
+      "translation": "Не говори “гоп”, пока не перепрыгнешь",
+      "example": "I know you’re excited, but don’t count your chickens before they hatch."
+    },
+    {
+      "idiom": "Hit the ground running",
+      "translation": "Начать активно, сразу включиться в работу",
+      "example": "She hit the ground running on her first day at work."
+    },
+    {
+      "idiom": "In a nutshell",
+      "translation": "В двух словах, кратко",
+      "example": "In a nutshell, the project is behind schedule."
+    },
+    {
+      "idiom": "Let the cat out of the bag",
+      "translation": "Проболтаться",
+      "example": "She let the cat out of the bag about the surprise party."
+    },
+    {
+      "idiom": "Miss the boat",
+      "translation": "Упустить шанс",
+      "example": "If you don’t apply by tomorrow, you’ll miss the boat."
+    },
+    {
+      "idiom": "No pain, no gain",
+      "translation": "Без труда не вытащишь и рыбку из пруда",
+      "example": "You have to work hard if you want to succeed – no pain, no gain."
+    },
+    {
+      "idiom": "Once in a blue moon",
+      "translation": "Раз в сто лет",
+      "example": "We only go out for dinner once in a blue moon."
+    },
+    {
+      "idiom": "Out of the blue",
+      "translation": "Неожиданно, как гром среди ясного неба",
+      "example": "She called me out of the blue after years of silence."
+    },
+    {
+      "idiom": "Take a rain check",
+      "translation": "Отложить, перенести на потом",
+      "example": "I can’t make it today, but I’ll take a rain check for next time."
+    },
+    {
+      "idiom": "The ball is in your court",
+      "translation": "Мяч на твоей стороне, теперь твоя очередь",
+      "example": "I’ve done my part; now the ball is in your court."
+    },
+    {
+      "idiom": "The last straw",
+      "translation": "Последняя капля",
+      "example": "That was the last straw. I can’t take it anymore!"
+    },
+    {
+      "idiom": "The tip of the iceberg",
+      "translation": "Верхушка айсберга",
+      "example": "What you see is just the tip of the iceberg."
+    },
+    {
+      "idiom": "Throw in the towel",
+      "translation": "Сдаться",
+      "example": "After hours of trying to fix the computer, I finally threw in the towel."
+    },
+     {
+      "idiom": "A watched pot never boils",
+      "translation": "Что слишком ждёшь, то не случается",
+      "example": "Stop watching the clock; a watched pot never boils."
+    },
+    {
+      "idiom": "Actions speak louder than words",
+      "translation": "Дела говорят громче слов",
+      "example": "Don’t just talk about helping, show it. Actions speak louder than words."
+    },
+    {
+      "idiom": "Burn your bridges",
+      "translation": "Сжигать мосты, оставить позади отношения или возможности",
+      "example": "He burned his bridges when he quit the job without notice."
+    },
+    {
+      "idiom": "By the skin of your teeth",
+      "translation": "Едва-едва, на волосок от",
+      "example": "I passed the exam by the skin of my teeth."
+    },
+    {
+      "idiom": "Caught between a rock and a hard place",
+      "translation": "Между молотом и наковальней",
+      "example": "I was caught between a rock and a hard place with this decision."
+    },
+    {
+      "idiom": "Cold shoulder",
+      "translation": "Игнорировать, холодно относиться",
+      "example": "She gave him the cold shoulder after the argument."
+    },
+    {
+      "idiom": "Cry over spilled milk",
+      "translation": "Плакать над пролитым молоком",
+      "example": "There’s no point in crying over spilled milk; what’s done is done."
+    },
+    {
+      "idiom": "Don’t bite the hand that feeds you",
+      "translation": "Не кусай руку, которая тебя кормит",
+      "example": "You should appreciate the help you get, don’t bite the hand that feeds you."
+    },
+    {
+      "idiom": "Don’t put all your eggs in one basket",
+      "translation": "Не кладите все яйца в одну корзину",
+      "example": "It’s risky to invest in just one company. Don’t put all your eggs in one basket."
+    },
+    {
+      "idiom": "Don’t throw the baby out with the bathwater",
+      "translation": "Не выбрасывай дитя с водой",
+      "example": "Let’s not throw the baby out with the bathwater and get rid of the whole project."
+    },
+    {
+      "idiom": "Get a taste of your own medicine",
+      "translation": "Получить по заслугам",
+      "example": "After all the complaining, he got a taste of his own medicine when the manager scolded him."
+    },
+    {
+      "idiom": "Give someone the benefit of the doubt",
+      "translation": "Дать кому-то шанс, поверить, что он не виновен",
+      "example": "I’ll give her the benefit of the doubt until I have all the facts."
+    },
+    {
+      "idiom": "Go for broke",
+      "translation": "Идти на всё, рисковать всем",
+      "example": "He decided to go for broke and invest everything into the startup."
+    },
+    {
+      "idiom": "Haste makes waste",
+      "translation": "Поспешишь — людей насмешишь",
+      "example": "If you rush the process, you’ll make mistakes. Haste makes waste."
+    },
+    {
+      "idiom": "Hit the sack",
+      "translation": "Ложиться спать",
+      "example": "I’m exhausted, I think I’ll hit the sack early tonight."
+    },
+    {
+      "idiom": "In the same boat",
+      "translation": "В одной лодке, в одинаковой ситуации",
+      "example": "We’re all in the same boat, trying to finish the project on time."
+    },
+    {
+      "idiom": "It’s not rocket science",
+      "translation": "Это не так сложно",
+      "example": "Don’t worry, it’s not rocket science. You’ll get the hang of it."
+    },
+    {
+      "idiom": "Jump on the bandwagon",
+      "translation": "Присоединяться к популярному делу",
+      "example": "Everyone’s jumping on the bandwagon and buying the latest gadget."
+    },
+    {
+      "idiom": "Keep your fingers crossed",
+      "translation": "Скрестить пальцы, надеяться на удачу",
+      "example": "I hope we get the job! Keep your fingers crossed for us."
+    },
+    {
+      "idiom": "Let the cat out of the bag",
+      "translation": "Проболтаться, раскрыть секрет",
+      "example": "He let the cat out of the bag about the surprise gift."
+    },
+    {
+      "idiom": "Make a mountain out of a molehill",
+      "translation": "Раздувать из мухи слона",
+      "example": "Stop making a mountain out of a molehill. It’s just a small issue."
+    },
+    {
+      "idiom": "Miss the boat",
+      "translation": "Упустить шанс",
+      "example": "You missed the boat on that offer. It ended yesterday."
+    },
+    {
+      "idiom": "No time like the present",
+      "translation": "Нет времени лучше, чем сейчас",
+      "example": "I think we should start today. There’s no time like the present."
+    },
+    {
+      "idiom": "Once in a blue moon",
+      "translation": "Раз в сто лет",
+      "example": "I only go to the gym once in a blue moon."
+    },
+    {
+      "idiom": "Out of sight, out of mind",
+      "translation": "С глаз долой — из сердца вон",
+      "example": "I haven’t thought about it much; out of sight, out of mind."
+    },
+    {
+      "idiom": "Out of the frying pan and into the fire",
+      "translation": "Из огня да в полымя",
+      "example": "Moving to a new city turned out to be out of the frying pan and into the fire."
+    },
+    {
+      "idiom": "Put your best foot forward",
+      "translation": "Подать себя в лучшем свете",
+      "example": "Remember to put your best foot forward at the interview."
+    },
+    {
+      "idiom": "Read the riot act",
+      "translation": "Сделать строгий выговор",
+      "example": "The boss read the riot act to the team for missing the deadline."
+    },
+    {
+      "idiom": "Speak of the devil",
+      "translation": "Легок на помине",
+      "example": "Speak of the devil! Here comes John just when we were talking about him."
+    },
+    {
+      "idiom": "Spill the beans",
+      "translation": "Проболтаться, раскрыть секрет",
+      "example": "I didn’t mean to spill the beans about the surprise party!"
+    },
+    {
+      "idiom": "The ball is in your court",
+      "translation": "Мяч на твоей стороне",
+      "example": "I’ve done my part. Now, the ball is in your court."
+    },
+    {
+      "idiom": "The early bird catches the worm",
+      "translation": "Кто рано встает, тому Бог подает",
+      "example": "I like to start work early — the early bird catches the worm!"
+    },
+    {
+      "idiom": "The proof is in the pudding",
+      "translation": "Всё познается в сравнении, результат покажет",
+      "example": "Don’t judge the project by its outline. The proof is in the pudding."
+    },
+    {
+      "idiom": "Throw in the towel",
+      "translation": "Сдаться",
+      "example": "After trying for hours, I threw in the towel and gave up."
+    },
+    {
+      "idiom": "Tie the knot",
+      "translation": "Пожениться",
+      "example": "They decided to tie the knot after three years of dating."
+    },
+    {
+      "idiom": "To bend over backwards",
+      "translation": "Сгибаться в дугу, делать всё возможное",
+      "example": "She bent over backwards to make sure everyone was happy with the decision."
+    },
+    {
+      "idiom": "To be the apple of someone’s eye",
+      "translation": "Быть любимым человеком, обожаемым",
+      "example": "His daughter is the apple of his eye."
+    },
+    {
+      "idiom": "To bite off more than you can chew",
+      "translation": "Взять на себя слишком много",
+      "example": "He bit off more than he could chew by accepting so many projects."
+    },
+    {
+      "idiom": "To break the ice",
+      "translation": "Разрядить обстановку, начать разговор",
+      "example": "He told a funny joke to break the ice at the meeting."
+    },
+    {
+      "idiom": "To catch someone red-handed",
+      "translation": "Поймать с поличным",
+      "example": "The thief was caught red-handed by the security cameras."
+    },
+    {
+      "idiom": "To cost an arm and a leg",
+      "translation": "Стоить целое состояние",
+      "example": "The new car costs an arm and a leg, but it’s worth it."
+    },
+    {
+      "idiom": "To cry over spilled milk",
+      "translation": "Плакать над пролитым молоком",
+      "example": "Don’t cry over spilled milk; we’ll fix the problem."
+    },
+    {
+      "idiom": "To hit the nail on the head",
+      "translation": "Попасть в точку",
+      "example": "You really hit the nail on the head with your analysis of the situation."
+    },
+    {
+      "idiom": "To let the cat out of the bag",
+      "translation": "Проболтаться",
+      "example": "He let the cat out of the bag about the surprise party."
+    },
+    {
+      "idiom": "To make ends meet",
+      "translation": "Свести концы с концами",
+      "example": "It’s difficult to make ends meet on a small salary."
+    },
+    {
+      "idiom": "To pull someone’s leg",
+      "translation": "Подшучивать над кем-то",
+      "example": "I was just pulling your leg, don’t take it seriously."
+    },
+    {
+      "idiom": "Under the weather",
+      "translation": "Не в себе, болеть",
+      "example": "I’m feeling a bit under the weather today."
+    },
+    {
+      "idiom": "Up in the air",
+      "translation": "Неопределённый, в подвешенном состоянии",
+      "example": "Our vacation plans are still up in the air."
+    },
+    {
+      "idiom": "Wear your heart on your sleeve",
+      "translation": "Не скрывать своих чувств",
+      "example": "She wears her heart on her sleeve, always sharing her emotions."
+    }
+  ]
+}
+
